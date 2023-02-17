@@ -22,3 +22,10 @@
 - composer update
 - run php artisan key:generate
 - config your own database
+
+
+## Youtube
+Here is the link of this tutorial on youtube: https://youtube.com/watch?v=yzEuC8TWimA&feature=shares
+
+
+
